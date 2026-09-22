@@ -1,0 +1,1687 @@
+[
+  {
+    "voice_id": "tc_5e11db23b70e890009fb7ae7",
+    "voice_name": "Mark",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_5f8d7b0de146f10007b8042f",
+    "voice_name": "Camila",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_601944fb9089786f78c285ef",
+    "voice_name": "Jennifer",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy",
+      "sad",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_602292ef9089786f78c93ef1",
+    "voice_name": "Glenda",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_602bd4fa8cfef478f1ceef0d",
+    "voice_name": "Uncle Hank",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_603513d91860484c4dcb6a11",
+    "voice_name": "Icarus",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonedown",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_603fa0459441d42bc362eadf",
+    "voice_name": "Jimmy",
+    "model": "ssfm-v21",
+    "emotions": [
+      "sad",
+      "angry",
+      "normal",
+      "happy"
+    ]
+  },
+  {
+    "voice_id": "tc_604785d9ecccaef0e390a635",
+    "voice_name": "Reporter Catalina",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_6059dbe12fbc0b7887584a05",
+    "voice_name": "Newscaster John",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_6075b391922523862ea7598d",
+    "voice_name": "Duke",
+    "model": "ssfm-v21",
+    "emotions": [
+      "happy",
+      "sad",
+      "angry",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_6075b407b8a5c6f36b877c88",
+    "voice_name": "Doughnut",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy",
+      "sad",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_6076e25ac80469168e3771cf",
+    "voice_name": "Nana",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy",
+      "sad",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_60915a63276a6a7600d7acfa",
+    "voice_name": "Xavier",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_609a8fa4692037c4c168fe95",
+    "voice_name": "Margaret",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy",
+      "sad",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_60b64250db6e52c09714b379",
+    "voice_name": "Liam",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_60d1f8de6eff8301c397014a",
+    "voice_name": "George",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_60db2fccdd71a40a1d3476f8",
+    "voice_name": "Annie",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_60e5421475f558ee6473a00a",
+    "voice_name": "David",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_60e5426de8b95f1d3000d7b5",
+    "voice_name": "Jack",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_610028154ecbefd29fb421b3",
+    "voice_name": "Furnando",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy",
+      "angry",
+      "sad"
+    ]
+  },
+  {
+    "voice_id": "tc_6100287f568d6198a78bac31",
+    "voice_name": "Keybo",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy",
+      "sad",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_61095ebc03c0e5b98f8ba69c",
+    "voice_name": "Sindarin",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "angry",
+      "sad",
+      "happy"
+    ]
+  },
+  {
+    "voice_id": "tc_61095f50876293488937d5db",
+    "voice_name": "Kevin",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy",
+      "sad",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_61377f18a4d286537b5aba26",
+    "voice_name": "Vanessa",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonemid",
+      "toneup",
+      "tonedown",
+      "happy",
+      "sad",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_615c6abd9d9ddf11c620ad8e",
+    "voice_name": "Dan",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonemid",
+      "angry",
+      "sad",
+      "happy",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_615c6b331b008225e4d0fbe3",
+    "voice_name": "Vivien",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_6178a6758972cb5bb66f1295",
+    "voice_name": "Viqqie",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_61a6c0031649b652166c4f38",
+    "voice_name": "Santa",
+    "model": "ssfm-v21",
+    "emotions": [
+      "angry",
+      "happy",
+      "sad",
+      "normal",
+      "tonemid",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_61a6c1b345116a3825caf1cd",
+    "voice_name": "Slushy",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "angry",
+      "sad",
+      "happy"
+    ]
+  },
+  {
+    "voice_id": "tc_61a6c227d9e36101d9810908",
+    "voice_name": "Rudolph",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "sarcasm",
+      "angry",
+      "happy"
+    ]
+  },
+  {
+    "voice_id": "tc_61b007392f2010f2aa1a052a",
+    "voice_name": "Dollar Jr.",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonedown",
+      "toneup",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_61b9a749a28a0b3f64b21b9d",
+    "voice_name": "Peter",
+    "model": "ssfm-v21",
+    "emotions": [
+      "sad",
+      "angry",
+      "happy",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_61b9a7e8a820ec151ae3c7f9",
+    "voice_name": "Michael",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_61b9a899a28a0b3f64b21d4f",
+    "voice_name": "Carlos",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_61d55a84b8c48f42d69b2399",
+    "voice_name": "Emma",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_61d55adfd6c33fa5f66cb067",
+    "voice_name": "Ryan",
+    "model": "ssfm-v21",
+    "emotions": [
+      "angry",
+      "normal",
+      "happy",
+      "sad"
+    ]
+  },
+  {
+    "voice_id": "tc_61de29b665ffbaa1cbe5ca23",
+    "voice_name": "Katie",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonemid",
+      "toneup",
+      "normal",
+      "happy",
+      "angry",
+      "sad"
+    ]
+  },
+  {
+    "voice_id": "tc_61e7485c629d45e35622d1fc",
+    "voice_name": "Aiden",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "sad",
+      "happy",
+      "angry",
+      "toneup",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_62031f1abb4297c1b176eb21",
+    "voice_name": "Noa",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup",
+      "tonemid",
+      "angry",
+      "sad",
+      "happy"
+    ]
+  },
+  {
+    "voice_id": "tc_6215be148d739924bba411b9",
+    "voice_name": "Vincent",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonemid",
+      "toneup",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_62203cf8a08b67aac4623e41",
+    "voice_name": "Helena",
+    "model": "ssfm-v21",
+    "emotions": [
+      "toneup",
+      "tonemid",
+      "normal",
+      "happy",
+      "angry",
+      "whisper"
+    ]
+  },
+  {
+    "voice_id": "tc_6229652aa4ff5d1ee6bf4e5f",
+    "voice_name": "Oscar",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "sad",
+      "happy",
+      "tonedown",
+      "tonemid",
+      "toneup",
+      "angry",
+      "scream"
+    ]
+  },
+  {
+    "voice_id": "tc_623145940c2c1ff30c30f3a9",
+    "voice_name": "Matthew",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "shout"
+    ]
+  },
+  {
+    "voice_id": "tc_6243fb22de596ce0d3ba965c",
+    "voice_name": "Angela",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy",
+      "tonedown",
+      "tonemid",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_624ccc5a6ac2f03235ce042b",
+    "voice_name": "Hans",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy",
+      "tonemid",
+      "shout",
+      "toneup",
+      "soft"
+    ]
+  },
+  {
+    "voice_id": "tc_625fb112fefc49af63d18127",
+    "voice_name": "Edward",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "sad"
+    ]
+  },
+  {
+    "voice_id": "tc_6271b909bc73a0f7591f147c",
+    "voice_name": "Neoguard",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "shout"
+    ]
+  },
+  {
+    "voice_id": "tc_6271b9639382aa2d68e2d5c1",
+    "voice_name": "Alex",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy",
+      "sad"
+    ]
+  },
+  {
+    "voice_id": "tc_627ae5cd14dc32608fdaffa8",
+    "voice_name": "Kelly",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup",
+      "tonemid",
+      "happy",
+      "whisper"
+    ]
+  },
+  {
+    "voice_id": "tc_62849c6d4b8771d984837ff6",
+    "voice_name": "P-0150N",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_628d9c881374f768260298b0",
+    "voice_name": "Claire",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonemid",
+      "toneup",
+      "normal",
+      "happy",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_628d9d5b75e5cde93b873079",
+    "voice_name": "Sara",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_6296a8797f24a46b8273606d",
+    "voice_name": "Sophia",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_629fe969a31b8f569a9b1f15",
+    "voice_name": "Tyson",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "sad",
+      "happy",
+      "angry",
+      "tonemid",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_62a8975e695ad26f7fb514d1",
+    "voice_name": "Olivia",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonemid",
+      "toneup",
+      "normal",
+      "happy",
+      "sad",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_62baac399b316e5fec036a26",
+    "voice_name": "Joshua",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "sad",
+      "happy",
+      "angry",
+      "toneup",
+      "tonemid"
+    ]
+  },
+  {
+    "voice_id": "tc_62baac538f06bd484ee976bd",
+    "voice_name": "Samantha",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_62ce546661d31a90a0f786d0",
+    "voice_name": "Tim",
+    "model": "ssfm-v21",
+    "emotions": [
+      "happy",
+      "tonemid",
+      "toneup",
+      "normal",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_62d66c463c017468ffbd53ed",
+    "voice_name": "Cyrus",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy",
+      "tonemid",
+      "tonedown",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_62df8e33e435e7a9350f3099",
+    "voice_name": "Mia",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonemid",
+      "toneup",
+      "normal",
+      "sad",
+      "happy",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_62e8f1e86627e27dcffd8884",
+    "voice_name": "Owen",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "sad",
+      "happy",
+      "angry",
+      "tonemid",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_62f223d11643eebf963582f7",
+    "voice_name": "Stephanie",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_62fb678f9b93d9207fa8c032",
+    "voice_name": "Leo",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_62fb679683a541c351dc7c3a",
+    "voice_name": "Ella",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonemid",
+      "normal",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_63049449e7dfae64b10c6cb9",
+    "voice_name": "Agatha",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonemid",
+      "happy"
+    ]
+  },
+  {
+    "voice_id": "tc_630494521f5003bebbfdafef",
+    "voice_name": "Rachel",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup",
+      "happy"
+    ]
+  },
+  {
+    "voice_id": "tc_6304945aa2fc5265848f300e",
+    "voice_name": "Sean",
+    "model": "ssfm-v21",
+    "emotions": [
+      "toneup",
+      "normal",
+      "happy"
+    ]
+  },
+  {
+    "voice_id": "tc_630ddacc02e347147b7d9590",
+    "voice_name": "Caleb",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_631725814e0d806f7158efde",
+    "voice_name": "Rebecca",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup",
+      "tonemid",
+      "happy",
+      "sad",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_6322940059d649937b97f326",
+    "voice_name": "Rex",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonedown",
+      "happy",
+      "normal",
+      "tonemid"
+    ]
+  },
+  {
+    "voice_id": "tc_632a757ae7c78a412f5a36c0",
+    "voice_name": "West",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "sad",
+      "happy"
+    ]
+  },
+  {
+    "voice_id": "tc_632a759503f3cb7b9c8a717b",
+    "voice_name": "Lindsay",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy"
+    ]
+  },
+  {
+    "voice_id": "tc_63350626a4d11d74fc90e06c",
+    "voice_name": "Ben",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_633d530f093ca33db95de02b",
+    "voice_name": "Justin",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_6347828cd3835443f0fcd572",
+    "voice_name": "Tina",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_6347829caf3bab65523c3240",
+    "voice_name": "Henry",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonedown",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_634f8eb8165554e4256eeda1",
+    "voice_name": "Killian the Vampire",
+    "model": "ssfm-v21",
+    "emotions": [
+      "toneup",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_634f8ec12e351d8a3d548e61",
+    "voice_name": "Sabrina the Witch",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_634f8ecab302fd064cd4c20f",
+    "voice_name": "Frankenstein",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_634f8ed3165554e4256eedac",
+    "voice_name": "Jack-o’-Lantern",
+    "model": "ssfm-v21",
+    "emotions": [
+      "whisper",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_6351fe842e351d8a3d558e1e",
+    "voice_name": "Annabelle the Ghost",
+    "model": "ssfm-v21",
+    "emotions": [
+      "angry",
+      "normal",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_6359e7f6467f9e240b68292c",
+    "voice_name": "Millie",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_63622ab3ce9c868d3a7eaa98",
+    "voice_name": "Philip",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_636b1d8ae820660d79a740f7",
+    "voice_name": "Abigail",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_63745dc2d87a09363fb4391d",
+    "voice_name": "Athena",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_637cbff794cf9b355ca6f6c6",
+    "voice_name": "Patrick",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonemid",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_637cc000808a2da802dcb402",
+    "voice_name": "Jodie",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonemid"
+    ]
+  },
+  {
+    "voice_id": "tc_6386d6b4bd1e28def9077e15",
+    "voice_name": "Mrs. Claus",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_6386d6bf146d8da2a87ae54d",
+    "voice_name": "Santa Claus",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_638efbaec39679f98353178d",
+    "voice_name": "Bell",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_638efbb7fac82cf52330aa49",
+    "voice_name": "Noel",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_638efbbfc39679f9835317a0",
+    "voice_name": "Buddy",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_639ad2972cce84809db3cfd3",
+    "voice_name": "Liz",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "sad",
+      "happy",
+      "angry",
+      "tonemid",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_63a3d9e24b235ddd6541a799",
+    "voice_name": "Charlotte",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_63aaebfaf95b9c23b311c88d",
+    "voice_name": "Graham",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_63b66515af8bf60c80b87642",
+    "voice_name": "Cole",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonemid"
+    ]
+  },
+  {
+    "voice_id": "tc_63be4f3d1b9bdfe02e12ddfc",
+    "voice_name": "April",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_63c76c7474190a31f3d02cc3",
+    "voice_name": "Maddie",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonemid",
+      "toneup",
+      "normal",
+      "sad",
+      "happy",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_63d3770f4d2e3367877bab36",
+    "voice_name": "Neel",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup",
+      "tonemid",
+      "happy",
+      "angry",
+      "sad"
+    ]
+  },
+  {
+    "voice_id": "tc_63da42ad276df1e8bc54a45c",
+    "voice_name": "Lydia",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonedown",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_63e45daee48a09fcf2d45402",
+    "voice_name": "Brad",
+    "model": "ssfm-v21",
+    "emotions": [
+      "toneup",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_63edf3e806ab09dfc7719403",
+    "voice_name": "Catherine",
+    "model": "ssfm-v21",
+    "emotions": [
+      "happy",
+      "tonemid",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_63f7168fddf3fa512c2a103a",
+    "voice_name": "Natalie",
+    "model": "ssfm-v21",
+    "emotions": [
+      "toneup",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_64004d0d38436e7e4f15b2d4",
+    "voice_name": "Klip Kim",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_640997e4bb4c0b074eef945b",
+    "voice_name": "Nathan",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy"
+    ]
+  },
+  {
+    "voice_id": "tc_6412c42d733f60ab8ad369a9",
+    "voice_name": "Caitlyn",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_641c10bfb62ae5eee6db3f9e",
+    "voice_name": "Jenna",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_642f9d2775cffa2644e0ecc8",
+    "voice_name": "Amber",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_643797da6738883e188505b7",
+    "voice_name": "Jake",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_643f9ac36b6e3e4e54988d55",
+    "voice_name": "River",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy"
+    ]
+  },
+  {
+    "voice_id": "tc_644a0a57228dab7c49bfdd25",
+    "voice_name": "Eman",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_645349827a050a4142d49edf",
+    "voice_name": "Maisie",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_645b39b760386589fd851133",
+    "voice_name": "Billie",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_6513e3e95ea8304ce7602956",
+    "voice_name": "Captain Bill",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_653a07aa07552a5cf615ac91",
+    "voice_name": "Norah",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_65604660f62f4fb1ea4bd79c",
+    "voice_name": "Rita",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_65681f21097fc4326ceb5e21",
+    "voice_name": "Lloyd",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_659655839f7a5014fe74a76c",
+    "voice_name": "Avery",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonemid"
+    ]
+  },
+  {
+    "voice_id": "tc_65b34b05b3fb844f3d6b7aab",
+    "voice_name": "Simon",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_65bca7feace8a6fe13966252",
+    "voice_name": "Callan",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_65cb142996cc219854a14065",
+    "voice_name": "Royce",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_65d84b782b58da07b628d384",
+    "voice_name": "Larry",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_660e5c11eef728e75f95f520",
+    "voice_name": "Chester",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_660e5c29eef728e75f95f538",
+    "voice_name": "Patricia",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_6620ee223bc61e2f6b79fdb5",
+    "voice_name": "Ron",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_6620ee743bc61e2f6b79fdd1",
+    "voice_name": "Carol",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_662a15c1e31aab9a774b3b31",
+    "voice_name": "Kristen",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_6633457fb5267dbd4808a2dd",
+    "voice_name": "Landon",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_66aca22c7d31e45ff05ff418",
+    "voice_name": "Chloe",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_66bc600762cab997910b107b",
+    "voice_name": "Robert",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_66bc60339ab2db047154b94e",
+    "voice_name": "Starling",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_672c5f5ce59fac2a48faeaee",
+    "voice_name": "Dylan",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_672c5f873e4ac3afd2c02019",
+    "voice_name": "Bruce",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_67358772bcde863931cb6f40",
+    "voice_name": "Chase",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_673587a063fc41710954ce20",
+    "voice_name": "Harper",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_673eb42eef5b688d8cadd086",
+    "voice_name": "Shana",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "casual"
+    ]
+  },
+  {
+    "voice_id": "tc_673eb45cdc1073aef51e6b90",
+    "voice_name": "Dean",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonedown",
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_67480871602c751359c7b221",
+    "voice_name": "Ravi",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_674808a7602c751359c7b280",
+    "voice_name": "Lucille",
+    "model": "ssfm-v21",
+    "emotions": [
+      "soft",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_67512e5af2b6dbabce63f92a",
+    "voice_name": "Jeff",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_67512e8b0b5984173fa04685",
+    "voice_name": "Skylar",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_675932accd1349e1c9aa0c3f",
+    "voice_name": "Oliver",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "sad",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_675932df789ff3ea6cc6d37b",
+    "voice_name": "Grace",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_6763aa69e0158fa7fe2ecdd2",
+    "voice_name": "Kelsey",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "sad",
+      "angry",
+      "happy"
+    ]
+  },
+  {
+    "voice_id": "tc_6763aa9308bfb62a22f42f3d",
+    "voice_name": "Paige",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "cheer"
+    ]
+  },
+  {
+    "voice_id": "tc_6777666645604e14c7ff8ee5",
+    "voice_name": "Carl",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "trustful",
+      "soft"
+    ]
+  },
+  {
+    "voice_id": "tc_6777669145604e14c7ff8f03",
+    "voice_name": "Victoria",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "soft",
+      "tonemid"
+    ]
+  },
+  {
+    "voice_id": "tc_677f373da02bd83e0934e7ea",
+    "voice_name": "Hugh",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_677f3763b5a012d3b3b3e85e",
+    "voice_name": "Hailey",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_67888393646bd9364605d57a",
+    "voice_name": "Viktor",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonedown",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_678883c29939d48aeb8641ae",
+    "voice_name": "Benny",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "shout"
+    ]
+  },
+  {
+    "voice_id": "tc_6791c4a4c79515dea68b4a75",
+    "voice_name": "Logan",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "happy",
+      "sad"
+    ]
+  },
+  {
+    "voice_id": "tc_6791c4c4bbcdc04afd3fde2f",
+    "voice_name": "Jackson",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "urgent",
+      "inspire"
+    ]
+  },
+  {
+    "voice_id": "tc_67a440ec1e05bd5665857efd",
+    "voice_name": "Margot",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "casual",
+      "soft"
+    ]
+  },
+  {
+    "voice_id": "tc_67ad6d39799793979dad0e1b",
+    "voice_name": "Damian",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonedown",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_67b6985d4d5d632d97478263",
+    "voice_name": "Aaron",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_67bfc776d41bad708fdf4ef9",
+    "voice_name": "Rusty",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "cold",
+      "soft"
+    ]
+  },
+  {
+    "voice_id": "tc_67bfc79c0fdd0f534e9567b1",
+    "voice_name": "Gus",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonedown",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_67c90d1c45897c4a74a51a8d",
+    "voice_name": "Valerie",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "soft",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_67c90d6244cf859417f2fff5",
+    "voice_name": "Chad",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "angry",
+      "sad",
+      "happy"
+    ]
+  },
+  {
+    "voice_id": "tc_67d237aac9ac563922580832",
+    "voice_name": "Sylvia",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonedown",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_67d237f1782cabcc6155272f",
+    "voice_name": "Kanno",
+    "model": "ssfm-v21",
+    "emotions": [
+      "soft",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_67d238428572120c4aa644cc",
+    "voice_name": "Zoey",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_67db74bc7b2874e2eb0c25ab",
+    "voice_name": "Verna",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "angry",
+      "tonemid"
+    ]
+  },
+  {
+    "voice_id": "tc_67db7504d5ebacf7578e68f1",
+    "voice_name": "Riley",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "casual",
+      "toneup",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_67db753311833db994c4fed7",
+    "voice_name": "Elias",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "toneup"
+    ]
+  },
+  {
+    "voice_id": "tc_67e38e49771b5511659c4690",
+    "voice_name": "Nova",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "cheer",
+      "trustful"
+    ]
+  },
+  {
+    "voice_id": "tc_67e38e6d4600650873ac157c",
+    "voice_name": "Audrey",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "casual",
+      "sad",
+      "angry"
+    ]
+  },
+  {
+    "voice_id": "tc_67edd8ff659e800a322a5877",
+    "voice_name": "Doug",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonedown",
+      "toneup",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_67edd9343da73ae7896e347d",
+    "voice_name": "Janet",
+    "model": "ssfm-v21",
+    "emotions": [
+      "tonedown",
+      "toneup",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_67edd95eafe0d80b072ad31e",
+    "voice_name": "Echo",
+    "model": "ssfm-v21",
+    "emotions": [
+      "urgent",
+      "sarcasm",
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_682554969f03b333d376122a",
+    "voice_name": "Tessa",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_6837b58f80ceeb17115bb771",
+    "voice_name": "Walter",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  },
+  {
+    "voice_id": "tc_684a5a7ba2ce934624b59c6e",
+    "voice_name": "Nia",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal",
+      "tonedown"
+    ]
+  },
+  {
+    "voice_id": "tc_685ca2dcfa58f44bdbe60d65",
+    "voice_name": "Wade",
+    "model": "ssfm-v21",
+    "emotions": [
+      "normal"
+    ]
+  }
+]
